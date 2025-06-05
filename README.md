@@ -20,11 +20,11 @@ It’s a space for creativity, collaboration, and occasional chaos — all in th
 ## 📦 Modpack
 
 All mods are open-source or publicly available.  
-They are compatible with **Minecraft 1.20.1**.
+They are compatible with **Minecraft 1.20.2**.
 
 ### 🔧 Installation
 
-1. Download [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) for Minecraft **1.20.1**.
+1. Download [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.2.html) for Minecraft **1.20.2**.
 2. Copy all the mods from the `mods/` folder into your local `mods` directory.
 3. Launch Minecraft with the Forge profile.
 
