@@ -50,7 +50,7 @@ Here are some highlights:
 
 Feel free to test the modpack and open issues or PRs!
 
-> We’re constantly improving the experience. New mods and tweaks are welcome — just make sure they’re compatible with 1.20.1 and don’t break stuff :)
+> We’re constantly improving the experience. New mods and tweaks are welcome — just make sure they’re compatible with 1.20.2 and don’t break stuff :)
 
 ---
 
