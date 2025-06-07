@@ -32,27 +32,6 @@ They are compatible with **Minecraft 1.20.2**.
 
 ---
 
-## 📁 Mods List
-
-See the [`mods/`](./mods/) folder for the complete list.  
-Here are some highlights:
-
-- ⚙️ **Create** – automation and mechanical systems  
-- 🧠 **AI Improvements** – optimized mob AI for performance  
-- 🗺️ **JourneyMap** – interactive map with waypoints  
-- 🧰 **JEI (Just Enough Items)** – item browsing and crafting help  
-- ⚡ **Applied Energistics 2** – advanced storage and automation  
-- 🔒 **FTB Essentials** – server utilities and permissions
-
----
-
-## 🧪 Testing & Contribution
-
-Feel free to test the modpack and open issues or PRs!
-
-> We’re constantly improving the experience. New mods and tweaks are welcome — just make sure they’re compatible with 1.20.2 and don’t break stuff :)
-
----
 
 ## ❓ Troubleshooting
 
